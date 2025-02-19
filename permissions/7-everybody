@@ -1,2 +1,2 @@
-#1/bin/bash
-chmod +x /tmp/7-everybody
+#!/bin/bash
+chmod a+x hello
